@@ -12,5 +12,5 @@ board.length == 9
 board[i].length == 9
 board[i][j] is a digit or '.'.
 
-Demo Input: input.png
+Demo Input: https://github.com/ojhashivam/System_Design/blob/7e56e14cbe81736ec0d82dfd862573bb839aefe1/Sudoku_Solver/input.PNG
 Demo Output: output.png
