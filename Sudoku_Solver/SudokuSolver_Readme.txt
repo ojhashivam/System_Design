@@ -11,3 +11,6 @@ Constraints:
 board.length == 9
 board[i].length == 9
 board[i][j] is a digit or '.'.
+
+Demo Input: input.png
+Demo Output: output.png
