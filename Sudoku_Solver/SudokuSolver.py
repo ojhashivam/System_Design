@@ -45,7 +45,6 @@ if __name__=="__main__":
         inp = list(map(str , input().split()))
         board.append(inp)
 
-    print(board)
     object = SudokuSolver()
     solved = (object.solver(board))
 
